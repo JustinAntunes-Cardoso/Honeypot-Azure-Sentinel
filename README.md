@@ -49,4 +49,4 @@ In the accompanying demo:
 
 Explore the world map of incoming attacks after 24 hours, revealing custom logs enriched with geodata for a comprehensive analysis.
 
-![World Map of Incoming Attacks](images/world_map_attacks.png)
+![World Map of Incoming Attacks](Failed_RDP_world_map.png)
