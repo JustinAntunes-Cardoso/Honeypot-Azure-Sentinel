@@ -1,4 +1,4 @@
-/++# Azure Sentinel RDP Honeypot
+# Azure Sentinel RDP Honeypot
 
 ## Overview
 
