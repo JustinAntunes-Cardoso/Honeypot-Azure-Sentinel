@@ -41,6 +41,8 @@ In the accompanying demo:
 
 - **PowerShell:** Extracts RDP failed logon logs from the Windows Event Viewer.
 
+![PowerShell Log Exporter Script](log_exporter.png)
+
 ## Utilities Used
 
 - **ipgeolocation.io:** IP Address to Geolocation API for obtaining geographic information about attackers.
